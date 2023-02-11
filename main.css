@@ -11,3 +11,10 @@
     padding: 30px;
     background-color: #0f0;
 }
+
+.main {
+    padding: 40px;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: #00f;
+}
